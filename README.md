@@ -23,10 +23,15 @@ It is designed to:
 
 ## 🗂️ Project Structure
 ├── scanner/          # Python script for Nmap scan + JSON parsing
+
 ├── backend/          # Node.js server (server.js, Dockerfile, package.json)
+
 ├── frontend/         # HTML, CSS, JS files + Nginx Dockerfile
+
 ├── database/         # MySQL Dockerfile + init scripts
+
 ├── docker-compose.yml
+
 └── README.md
 
 ---
