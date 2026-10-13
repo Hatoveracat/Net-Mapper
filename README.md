@@ -40,7 +40,8 @@ It is designed to:
 1. **Run Nmap Scan**
    ```bash
    python3 scanner/nmap_scan.py <CIDR>
-## Complete Container Setup
-docker-compose up -d
+2. **Complete Container Setup**
+   ```bash
+   docker-compose up -d
 ## Conclusion
-This is a project which will need more enhancements for now this is Version 0.1.
+   This is a project which will need more enhancements for now this is Version 0.1.
