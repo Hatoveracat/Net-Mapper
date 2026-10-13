@@ -1,6 +1,8 @@
 # 🛰️ Network Mapping & Containerized Web Stack
 
-![Net-Mapper Flow Chart](Net-Mapper Diagram.png)
+<img width="1536" height="942" alt="image" src="https://github.com/user-attachments/assets/3b918735-9b3a-4127-9ae6-4c7e541945c7" />
+
+
 
 ## 📌 Overview
 This project integrates **network scanning, backend storage, and containerized web visualization** into a cohesive system.  
